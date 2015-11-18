@@ -1,0 +1,8 @@
+public int cuenta(){
+	int result;
+	result = 0;
+	while(int < 11){
+	result++;
+	}
+	return result;
+}
