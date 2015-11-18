@@ -4,5 +4,4 @@ public int cuenta(){
 	while(int < 11){
 	result++;
 	}
-	return result;
 }
